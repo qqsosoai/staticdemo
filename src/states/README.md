@@ -1,0 +1,2 @@
+所有状态管理在该文件夹，文件名使用模块名称，index.js为默认导出的store状态
+index.js要导入该文件夹所有store状态模块后，并导出总的store
